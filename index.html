@@ -1,0 +1,232 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dutch Flashcards</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1><i class="fas fa-graduation-cap"></i> Dutch Flashcards</h1>
+            <p class="subtitle">Learn Dutch vocabulary with pronunciation</p>
+        </header>
+
+        <div class="category-selection" id="categorySelection">
+            <div class="learning-mode-selector">
+                <h3><i class="fas fa-language"></i> Choose Learning Direction</h3>
+                <div class="mode-buttons">
+                    <button class="mode-btn active" data-mode="dutch-to-english">
+                        <div class="mode-icon">🇳🇱 → 🇬🇧</div>
+                        <div class="mode-title">Dutch to English</div>
+                        <div class="mode-description">See Dutch, guess English</div>
+                    </button>
+                    <button class="mode-btn" data-mode="english-to-dutch">
+                        <div class="mode-icon">🇬🇧 → 🇳🇱</div>
+                        <div class="mode-title">English to Dutch</div>
+                        <div class="mode-description">See English, guess Dutch</div>
+                    </button>
+                </div>
+            </div>
+            
+            <h3><i class="fas fa-folder-open"></i> Choose a Category</h3>
+            
+            <div class="search-container">
+                <div class="search-input-wrapper">
+                    <i class="fas fa-search search-icon"></i>
+                    <input type="text" class="category-search" id="categorySearch" placeholder="Search categories..." autocomplete="off">
+                    <button class="clear-search" id="clearSearch" style="display: none;">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+                <div class="search-results-count" id="searchResultsCount" style="display: none;">
+                    <span id="resultCount">0</span> categories found
+                </div>
+            </div>
+            
+            <div class="category-grid">
+                <div class="category-card" data-category="all">
+                    <div class="category-icon">🌟</div>
+                    <div class="category-name">All Words</div>
+                    <div class="category-count" id="count-all">0 words</div>
+                </div>
+                <div class="category-card" data-category="home">
+                    <div class="category-icon">🏠</div>
+                    <div class="category-name">Home & Rooms</div>
+                    <div class="category-count" id="count-home">0 words</div>
+                </div>
+                <div class="category-card" data-category="family">
+                    <div class="category-icon">👨‍👩‍👧‍👦</div>
+                    <div class="category-name">Family & People</div>
+                    <div class="category-count" id="count-family">0 words</div>
+                </div>
+                <div class="category-card" data-category="food">
+                    <div class="category-icon">🍞</div>
+                    <div class="category-name">Food & Drink</div>
+                    <div class="category-count" id="count-food">0 words</div>
+                </div>
+                <div class="category-card" data-category="transport">
+                    <div class="category-icon">🚗</div>
+                    <div class="category-name">Transport</div>
+                    <div class="category-count" id="count-transport">0 words</div>
+                </div>
+                <div class="category-card" data-category="places">
+                    <div class="category-icon">🏪</div>
+                    <div class="category-name">Places in Town</div>
+                    <div class="category-count" id="count-places">0 words</div>
+                </div>
+                <div class="category-card" data-category="time">
+                    <div class="category-icon">📅</div>
+                    <div class="category-name">Time & Days</div>
+                    <div class="category-count" id="count-time">0 words</div>
+                </div>
+                <div class="category-card" data-category="weather">
+                    <div class="category-icon">☀️</div>
+                    <div class="category-name">Weather & Seasons</div>
+                    <div class="category-count" id="count-weather">0 words</div>
+                </div>
+                <div class="category-card" data-category="clothing">
+                    <div class="category-icon">👕</div>
+                    <div class="category-name">Clothing</div>
+                    <div class="category-count" id="count-clothing">0 words</div>
+                </div>
+                <div class="category-card" data-category="verbs">
+                    <div class="category-icon">🏃‍♂️</div>
+                    <div class="category-name">Useful Verbs</div>
+                    <div class="category-count" id="count-verbs">0 words</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="learning-interface" id="learningInterface" style="display: none;">
+            <div class="current-category-info">
+                <button class="back-to-categories" id="backToCategoriesBtn">
+                    <i class="fas fa-arrow-left"></i> Back to Categories
+                </button>
+                <div class="learning-info">
+                    <div class="category-info">
+                        <span class="current-category-name" id="currentCategoryName">All Words</span>
+                        <span class="current-category-icon" id="currentCategoryIcon">🌟</span>
+                    </div>
+                    <button class="direction-toggle" id="directionToggle">
+                        <span class="direction-indicator" id="directionIndicator">🇳🇱 → 🇬🇧</span>
+                        <span class="direction-text" id="directionText">Dutch to English</span>
+                        <i class="fas fa-sync-alt toggle-icon"></i>
+                    </button>
+                </div>
+            </div>
+
+            <div class="examples-toggle-container">
+                <label class="examples-toggle-label">
+                    <span class="toggle-text">
+                        <i class="fas fa-list-ul"></i>
+                        Show Examples
+                    </span>
+                    <div class="toggle-switch">
+                        <input type="checkbox" id="examplesToggle" class="toggle-input">
+                        <span class="toggle-slider"></span>
+                    </div>
+                </label>
+            </div>
+
+            <div class="learning-content">
+                <div class="flashcard-container">
+                    <div class="flashcard" id="flashcard">
+                        <div class="card-inner">
+                            <div class="card-front">
+                                <div class="card-content">
+                                    <div class="word-display">
+                                        <h2 id="dutchWord">Select a category to begin</h2>
+                                        <button class="pronunciation-btn" id="pronounceBtn" disabled>
+                                            <i class="fas fa-volume-up"></i>
+                                            <span>Pronounce</span>
+                                        </button>
+                                    </div>
+                                    <div class="card-type">
+                                        <span class="language-tag">Dutch</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-back">
+                                <div class="card-content">
+                                    <div class="word-display">
+                                        <h2 id="englishWord">English translation</h2>
+                                        <div class="word-details">
+                                            <span class="word-type" id="wordType"></span>
+                                            <span class="difficulty" id="difficulty"></span>
+                                        </div>
+                                    </div>
+                                    <div class="card-type">
+                                        <span class="language-tag english">English</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="examples-panel" id="examplesPanel" style="display: none;">
+                    <div class="examples-header">
+                        <h4><i class="fas fa-quote-left"></i> Example Sentences</h4>
+                        <button class="close-examples" id="closeExamples">
+                            <i class="fas fa-times"></i>
+                        </button>
+                    </div>
+                    <div class="examples-content" id="examplesContent">
+                        <div class="no-examples">
+                            <i class="fas fa-info-circle"></i>
+                            <p>No example sentences available for this word.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="navigation-controls">
+                <button class="nav-btn prev-btn" id="prevBtn" disabled>
+                    <i class="fas fa-chevron-left"></i>
+                </button>
+                
+                <div class="card-counter">
+                    <span class="current-number" id="currentCard">1</span>
+                    <span class="separator">/</span>
+                    <span class="total-number" id="totalCards">0</span>
+                </div>
+                
+                <button class="nav-btn next-btn" id="nextBtn" disabled>
+                    <i class="fas fa-chevron-right"></i>
+                </button>
+            </div>
+
+
+            <div class="answer-buttons" id="answerButtons" style="display: none;">
+                <button class="answer-btn incorrect" id="incorrectBtn">
+                    <i class="fas fa-times"></i>
+                    Didn't Know
+                </button>
+                <button class="answer-btn correct" id="correctBtn">
+                    <i class="fas fa-check"></i>
+                    Got It Right
+                </button>
+            </div>
+
+            <div class="action-buttons">
+                <button class="control-btn secondary" id="shuffleBtn" disabled>
+                    <i class="fas fa-random"></i>
+                    Shuffle
+                </button>
+            </div>
+
+
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
