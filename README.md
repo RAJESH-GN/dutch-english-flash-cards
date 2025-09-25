@@ -1,121 +1,94 @@
-# Dutch Flashcards
+# Dutch Flashcards Application
 
-A configurable flashcard application for learning Dutch vocabulary with pronunciation support.
-
-## Features
-
-- 🎯 **Category-based learning**: Organized vocabulary by topics (greetings, family, verbs, etc.)
-- 🔄 **Bidirectional learning**: Dutch-to-English and English-to-Dutch modes
-- 🔊 **Pronunciation**: Built-in Dutch pronunciation using Web Speech API
-- 📝 **Example sentences**: Contextual examples for better learning
-- 📊 **Progress tracking**: Track your learning progress
-- 🎨 **Modern UI**: Clean, responsive design
-
-## 🆕 Configurable Data Sources
-
-The vocabulary data is now **externally configurable**! You can easily:
-
-### 1. Edit Vocabulary Data
-
-- Open `vocabulary-data.json` to modify, add, or remove words
-- The structure is preserved from the original embedded data
-- Changes are reflected immediately when you reload the page
-
-### 2. Use Different Datasets
-
-- Modify `config.json` to point to different vocabulary files
-- Create new JSON files following the same structure for other languages
-- Switch between datasets by updating the `dataSource` field
-
-### 3. Data Structure
-
-Each vocabulary entry follows this format:
-
-```json
-{
-  "dutch": "hallo",
-  "english": "hello",
-  "type": "greeting",
-  "difficulty": "beginner",
-  "examples": [
-    {
-      "dutch": "Hallo, hoe gaat het met je?",
-      "english": "Hello, how are you doing?"
-    }
-  ]
-}
-```
-
-## Running the Application
-
-**Important**: Due to browser security restrictions, you need to run this from a web server, not by opening the HTML file directly.
-
-### Option 1: Python Server (Recommended)
-
-```bash
-# Python 3
-python -m http.server 8000
-
-# Python 2
-python -m SimpleHTTPServer 8000
-```
-
-Then visit: `http://localhost:8000`
-
-### Option 2: Node.js Server
-
-```bash
-npx http-server
-```
-
-### Option 3: VS Code Live Server
-
-- Install the "Live Server" extension
-- Right-click on `index.html` and select "Open with Live Server"
-
-## Keyboard Shortcuts
-
-- **Arrow keys**: Navigate between cards
-- **P**: Pronounce Dutch word
-- **T**: Toggle learning direction
-- **E**: Toggle example sentences
-- **1**: Mark as incorrect
-- **2**: Mark as correct
-- **Escape**: Back to categories
-- **/**: Focus search (on category page)
-
-## Customization
-
-### Adding New Categories
-
-1. Add vocabulary entries to `vocabulary-data.json` with a new category name
-2. Update the `categoryInfo` object in `script.js` to include display information for the new category
-3. Add a corresponding category card in `index.html`
-
-### Creating New Language Datasets
-
-1. Create a new JSON file (e.g., `vocabulary-german.json`)
-2. Follow the same structure as `vocabulary-data.json`
-3. Update `config.json` to point to the new file
-4. Optionally update language flags and names in the config
+A static web application for learning Dutch vocabulary with two modes: Learn Mode (flashcards) and Quiz Mode (multiple choice).
 
 ## File Structure
 
-```
-Flash-cards-dutch/
-├── index.html              # Main application
-├── script.js               # Application logic
-├── styles.css              # Styling
-├── vocabulary-data.json    # 🆕 Vocabulary dataset
-├── config.json            # 🆕 Configuration
-└── README.md              # This file
-```
+### HTML Pages
 
-## Browser Compatibility
+- `index.html` - Main landing page with mode selection
+- `learn.html` - Flashcard learning interface
+- `quiz.html` - Quiz interface with multiple choice questions
 
-- ✅ Chrome/Chromium (recommended for pronunciation)
-- ✅ Firefox
-- ✅ Safari
-- ✅ Edge
+### JavaScript Modules
 
-Note: Pronunciation feature works best in Chrome/Chromium browsers.
+- `shared.js` - Shared functionality (vocabulary data, speech synthesis, utilities)
+- `learn.js` - Learning mode specific functionality
+- `quiz.js` - Quiz mode specific functionality
+
+### Other Files
+
+- `styles.css` - All styling for the application
+- `data.json` - Vocabulary data (external JSON file)
+
+## Features
+
+### Learn Mode
+
+- Interactive flashcards with Dutch/English vocabulary
+- Pronunciation using Web Speech API
+- Category-based learning (Home, Family, Food, etc.)
+- Bidirectional learning (Dutch→English or English→Dutch)
+- Example sentences with audio
+- Progress tracking and shuffle functionality
+- Keyboard shortcuts for navigation
+
+### Quiz Mode
+
+- Multiple choice questions with selectable direction:
+  - **English to Dutch** (default): See English word, choose Dutch translation
+  - **Dutch to English**: See Dutch word, choose English translation
+- Category-based quizzes including "All Words" option
+- All words in selected category are asked (randomized order)
+- Immediate feedback (correct/incorrect)
+- Score tracking and results page
+- Keyboard shortcuts for quick selection
+
+## Usage
+
+This is a static web application - simply open `index.html` in a web browser or serve the files through any web server.
+
+### Navigation
+
+- Start at `index.html` to choose between Learn and Quiz modes
+- Each mode is a separate page with its own functionality
+- Back buttons and main menu links allow easy navigation between pages
+
+### Keyboard Shortcuts
+
+#### Learn Mode
+
+- Arrow keys: Navigate cards
+- P: Pronounce Dutch word
+- T: Toggle learning direction
+- E: Toggle example sentences
+- 1: Mark as incorrect
+- 2: Mark as correct
+- Space: Flip card
+- Escape: Back to categories
+- /: Focus search
+
+#### Quiz Mode
+
+- 1, 2, 3: Select quiz options
+- Enter/Space: Next question
+- Escape: Back to categories
+
+## Development
+
+The application is built with vanilla HTML, CSS, and JavaScript. No build process or external dependencies are required.
+
+### Data Format
+
+Vocabulary data is stored in `data.json` with embedded fallback data in `shared.js`. Each word entry includes:
+
+- Dutch and English translations
+- Word type (noun, verb, etc.)
+- Difficulty level
+- Example sentences with translations
+
+### Browser Compatibility
+
+- Modern browsers with ES6+ support
+- Web Speech API for pronunciation (optional feature)
+- Local storage not required - fully stateless
