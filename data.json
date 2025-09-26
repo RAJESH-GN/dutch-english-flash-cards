@@ -2964,5 +2964,343 @@
          }
        ]
      }
+  ],
+  "numbers": [
+    {
+      "dutch": "nul",
+      "english": "zero",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Er zijn nul appels.",
+          "english": "There are zero apples."
+        },
+        {
+          "dutch": "Het getal nul is belangrijk.",
+          "english": "The number zero is important."
+        }
+      ]
+    },
+    {
+      "dutch": "een",
+      "english": "one",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Ik heb een boek.",
+          "english": "I have one book."
+        },
+        {
+          "dutch": "Een plus een is twee.",
+          "english": "One plus one is two."
+        }
+      ]
+    },
+    {
+      "dutch": "twee",
+      "english": "two",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Ik heb twee honden.",
+          "english": "I have two dogs."
+        },
+        {
+          "dutch": "Twee mensen lopen samen.",
+          "english": "Two people walk together."
+        }
+      ]
+    },
+    {
+      "dutch": "drie",
+      "english": "three",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Er zijn drie katten.",
+          "english": "There are three cats."
+        },
+        {
+          "dutch": "Drie kinderen spelen buiten.",
+          "english": "Three children play outside."
+        }
+      ]
+    },
+    {
+      "dutch": "vier",
+      "english": "four",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "De tafel heeft vier poten.",
+          "english": "The table has four legs."
+        },
+        {
+          "dutch": "Vier vrienden gaan naar de film.",
+          "english": "Four friends go to the movies."
+        }
+      ]
+    },
+    {
+      "dutch": "vijf",
+      "english": "five",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Ik heb vijf vingers.",
+          "english": "I have five fingers."
+        },
+        {
+          "dutch": "Het kost vijf euro.",
+          "english": "It costs five euros."
+        }
+      ]
+    },
+    {
+      "dutch": "zes",
+      "english": "six",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Er zijn zes stoelen.",
+          "english": "There are six chairs."
+        },
+        {
+          "dutch": "Zes plus vier is tien.",
+          "english": "Six plus four is ten."
+        }
+      ]
+    },
+    {
+      "dutch": "zeven",
+      "english": "seven",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "De week heeft zeven dagen.",
+          "english": "The week has seven days."
+        },
+        {
+          "dutch": "Zeven vogels zitten in de boom.",
+          "english": "Seven birds sit in the tree."
+        }
+      ]
+    },
+    {
+      "dutch": "acht",
+      "english": "eight",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Het is acht uur.",
+          "english": "It is eight o'clock."
+        },
+        {
+          "dutch": "Acht studenten zijn aanwezig.",
+          "english": "Eight students are present."
+        }
+      ]
+    },
+    {
+      "dutch": "negen",
+      "english": "nine",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Negen auto's staan geparkeerd.",
+          "english": "Nine cars are parked."
+        },
+        {
+          "dutch": "Ik werk negen uur per dag.",
+          "english": "I work nine hours per day."
+        }
+      ]
+    },
+    {
+      "dutch": "tien",
+      "english": "ten",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Ik heb tien euro.",
+          "english": "I have ten euros."
+        },
+        {
+          "dutch": "Tien mensen wachten in de rij.",
+          "english": "Ten people wait in line."
+        }
+      ]
+    },
+    {
+      "dutch": "elf",
+      "english": "eleven",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Het is elf uur 's avonds.",
+          "english": "It is eleven o'clock in the evening."
+        },
+        {
+          "dutch": "Elf spelers staan op het veld.",
+          "english": "Eleven players stand on the field."
+        }
+      ]
+    },
+    {
+      "dutch": "twaalf",
+      "english": "twelve",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Er zijn twaalf maanden in een jaar.",
+          "english": "There are twelve months in a year."
+        },
+        {
+          "dutch": "Twaalf eieren zitten in een dozijn.",
+          "english": "Twelve eggs are in a dozen."
+        }
+      ]
+    },
+    {
+      "dutch": "dertien",
+      "english": "thirteen",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Dertien is een ongeluksgetal.",
+          "english": "Thirteen is an unlucky number."
+        },
+        {
+          "dutch": "Het meisje is dertien jaar oud.",
+          "english": "The girl is thirteen years old."
+        }
+      ]
+    },
+    {
+      "dutch": "veertien",
+      "english": "fourteen",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Veertien dagen is twee weken.",
+          "english": "Fourteen days is two weeks."
+        },
+        {
+          "dutch": "Ik heb veertien boeken gelezen.",
+          "english": "I have read fourteen books."
+        }
+      ]
+    },
+    {
+      "dutch": "vijftien",
+      "english": "fifteen",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "De bus komt over vijftien minuten.",
+          "english": "The bus comes in fifteen minutes."
+        },
+        {
+          "dutch": "Vijftien studenten doen mee aan de wedstrijd.",
+          "english": "Fifteen students participate in the competition."
+        }
+      ]
+    },
+    {
+      "dutch": "zestien",
+      "english": "sixteen",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Hij wordt zestien jaar vandaag.",
+          "english": "He turns sixteen years old today."
+        },
+        {
+          "dutch": "Zestien kaarten liggen op tafel.",
+          "english": "Sixteen cards lie on the table."
+        }
+      ]
+    },
+    {
+      "dutch": "zeventien",
+      "english": "seventeen",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Zeventien mensen komen naar het feest.",
+          "english": "Seventeen people come to the party."
+        },
+        {
+          "dutch": "Het kost zeventien euro per persoon.",
+          "english": "It costs seventeen euros per person."
+        }
+      ]
+    },
+    {
+      "dutch": "achttien",
+      "english": "eighteen",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Je bent volwassen op achttien jaar.",
+          "english": "You are an adult at eighteen years."
+        },
+        {
+          "dutch": "Achttien graden is een prettige temperatuur.",
+          "english": "Eighteen degrees is a pleasant temperature."
+        }
+      ]
+    },
+    {
+      "dutch": "negentien",
+      "english": "nineteen",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Negentien procent van de mensen stemt.",
+          "english": "Nineteen percent of people vote."
+        },
+        {
+          "dutch": "Het jaar negentienhonderd was lang geleden.",
+          "english": "The year nineteen hundred was long ago."
+        }
+      ]
+    },
+    {
+      "dutch": "twintig",
+      "english": "twenty",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Twintig minuten lopen naar school.",
+          "english": "Twenty minutes walking to school."
+        },
+        {
+          "dutch": "Ik heb twintig euro gespaard.",
+          "english": "I have saved twenty euros."
+        }
+      ]
+    }
   ]
 }

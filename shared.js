@@ -15,7 +15,8 @@ class VocabularyData {
             time: { name: "Time & Days", icon: "📅" },
             weather: { name: "Weather & Seasons", icon: "☀️" },
             clothing: { name: "Clothing", icon: "👕" },
-            verbs: { name: "Useful Verbs", icon: "🏃‍♂️" }
+            verbs: { name: "Useful Verbs", icon: "🏃‍♂️" },
+            numbers: { name: "Numbers", icon: "🔢" }
         };
     }
 
