@@ -16,7 +16,8 @@ class VocabularyData {
             weather: { name: "Weather & Seasons", icon: "☀️" },
             clothing: { name: "Clothing", icon: "👕" },
             verbs: { name: "Useful Verbs", icon: "🏃‍♂️" },
-            numbers: { name: "Numbers", icon: "🔢" }
+            numbers: { name: "Numbers", icon: "🔢" },
+            KNS_exam_words: { name: "KNS Exam Words", icon: "📝" }
         };
     }
 
