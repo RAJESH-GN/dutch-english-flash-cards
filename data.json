@@ -3302,5 +3302,2635 @@
         }
       ]
     }
+  ],
+  "KNS_exam_words": [
+    {
+      "dutch": "Nederlandse",
+      "english": "Dutch",
+      "type": "adjective",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "U ziet de Nederlandse vlag.",
+          "english": "You see the Dutch flag."
+        }
+      ]
+    },
+    {
+      "dutch": "vlag",
+      "english": "flag",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "U ziet de Nederlandse vlag.",
+          "english": "You see the Dutch flag."
+        }
+      ]
+    },
+    {
+      "dutch": "kleuren",
+      "english": "colors",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Wat zijn de kleuren van de Nederlandse vlag?",
+          "english": "What are the colors of the Dutch flag?"
+        }
+      ]
+    },
+    {
+      "dutch": "rood",
+      "english": "red",
+      "type": "adjective",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "De vlag is rood, wit en blauw.",
+          "english": "The flag is red, white and blue."
+        }
+      ]
+    },
+    {
+      "dutch": "wit",
+      "english": "white",
+      "type": "adjective",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "De vlag is rood, wit en blauw.",
+          "english": "The flag is red, white and blue."
+        }
+      ]
+    },
+    {
+      "dutch": "blauw",
+      "english": "blue",
+      "type": "adjective",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "De vlag is rood, wit en blauw.",
+          "english": "The flag is red, white and blue."
+        }
+      ]
+    },
+    {
+      "dutch": "oranje",
+      "english": "orange",
+      "type": "adjective",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Het shirt is oranje.",
+          "english": "The shirt is orange."
+        }
+      ]
+    },
+    {
+      "dutch": "foto",
+      "english": "photo",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "U ziet een foto.",
+          "english": "You see a photo."
+        }
+      ]
+    },
+    {
+      "dutch": "koningin",
+      "english": "queen",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Wie is de koningin?",
+          "english": "Who is the queen?"
+        }
+      ]
+    },
+    {
+      "dutch": "Maxima",
+      "english": "Maxima",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Koningin Maxima is uit Argentinië.",
+          "english": "Queen Maxima is from Argentina."
+        }
+      ]
+    },
+    {
+      "dutch": "Willem",
+      "english": "Willem",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Willem van Oranje was een koning.",
+          "english": "Willem van Oranje was a king."
+        }
+      ]
+    },
+    {
+      "dutch": "wereld",
+      "english": "world",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "In welk deel van de wereld ligt Nederland?",
+          "english": "In which part of the world is the Netherlands located?"
+        }
+      ]
+    },
+    {
+      "dutch": "deel",
+      "english": "part",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "In welk deel van de wereld ligt Nederland?",
+          "english": "In which part of the world is the Netherlands located?"
+        }
+      ]
+    },
+    {
+      "dutch": "ligt",
+      "english": "lies/is located",
+      "type": "verb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Nederland ligt in Europa.",
+          "english": "The Netherlands is located in Europe."
+        }
+      ]
+    },
+    {
+      "dutch": "Europa",
+      "english": "Europe",
+      "type": "proper noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Nederland ligt in Europa.",
+          "english": "The Netherlands is located in Europe."
+        }
+      ]
+    },
+    {
+      "dutch": "Amerika",
+      "english": "America",
+      "type": "proper noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Amerika is een groot continent.",
+          "english": "America is a large continent."
+        }
+      ]
+    },
+    {
+      "dutch": "land",
+      "english": "country",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Welk land ligt ten zuiden van Nederland?",
+          "english": "Which country lies south of the Netherlands?"
+        }
+      ]
+    },
+    {
+      "dutch": "zuiden",
+      "english": "south",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "België ligt ten zuiden van Nederland.",
+          "english": "Belgium lies south of the Netherlands."
+        }
+      ]
+    },
+    {
+      "dutch": "noorden",
+      "english": "north",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Denemarken ligt ten noorden van Duitsland.",
+          "english": "Denmark lies north of Germany."
+        }
+      ]
+    },
+    {
+      "dutch": "België",
+      "english": "Belgium",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "België ligt ten zuiden van Nederland.",
+          "english": "Belgium lies south of the Netherlands."
+        }
+      ]
+    },
+    {
+      "dutch": "Duitsland",
+      "english": "Germany",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Duitsland ligt ten oosten van Nederland.",
+          "english": "Germany lies east of the Netherlands."
+        }
+      ]
+    },
+    {
+      "dutch": "groter",
+      "english": "bigger/larger",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Welk land is groter?",
+          "english": "Which country is bigger?"
+        }
+      ]
+    },
+    {
+      "dutch": "Marokko",
+      "english": "Morocco",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Marokko ligt in Afrika.",
+          "english": "Morocco is located in Africa."
+        }
+      ]
+    },
+    {
+      "dutch": "kleiner",
+      "english": "smaller",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Welk land is kleiner?",
+          "english": "Which country is smaller?"
+        }
+      ]
+    },
+    {
+      "dutch": "Nederland",
+      "english": "Netherlands",
+      "type": "proper noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Nederland is een klein land.",
+          "english": "The Netherlands is a small country."
+        }
+      ]
+    },
+    {
+      "dutch": "Turkije",
+      "english": "Turkey",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Turkije is groter dan Nederland.",
+          "english": "Turkey is bigger than the Netherlands."
+        }
+      ]
+    },
+    {
+      "dutch": "betekent",
+      "english": "means",
+      "type": "verb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Wat betekent deze naam?",
+          "english": "What does this name mean?"
+        }
+      ]
+    },
+    {
+      "dutch": "laag",
+      "english": "low",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Nederland betekent laag land.",
+          "english": "Netherlands means low land."
+        }
+      ]
+    },
+    {
+      "dutch": "waterland",
+      "english": "waterland",
+      "type": "noun",
+      "difficulty": "advanced",
+      "examples": [
+        {
+          "dutch": "Nederland is een waterland.",
+          "english": "The Netherlands is a waterland."
+        }
+      ]
+    },
+    {
+      "dutch": "kijk",
+      "english": "look",
+      "type": "verb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Kijk naar de foto.",
+          "english": "Look at the photo."
+        }
+      ]
+    },
+    {
+      "dutch": "dijk",
+      "english": "dike",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Er is een dijk langs het water.",
+          "english": "There is a dike along the water."
+        }
+      ]
+    },
+    {
+      "dutch": "haven",
+      "english": "harbor/port",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De haven is groot.",
+          "english": "The harbor is big."
+        }
+      ]
+    },
+    {
+      "dutch": "gebeurt",
+      "english": "happens/occurs",
+      "type": "verb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Wat gebeurt er met Nederland?",
+          "english": "What happens to the Netherlands?"
+        }
+      ]
+    },
+    {
+      "dutch": "krijgt",
+      "english": "gets/receives",
+      "type": "verb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Nederland krijgt meer regen.",
+          "english": "The Netherlands gets more rain."
+        }
+      ]
+    },
+    {
+      "dutch": "meer",
+      "english": "more",
+      "type": "adverb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Nederland krijgt meer regen.",
+          "english": "The Netherlands gets more rain."
+        }
+      ]
+    },
+    {
+      "dutch": "regen",
+      "english": "rain",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Het regent veel in Nederland.",
+          "english": "It rains a lot in the Netherlands."
+        }
+      ]
+    },
+    {
+      "dutch": "Nederlandse",
+      "english": "Dutch",
+      "type": "adjective",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "De Nederlandse staat is democratisch.",
+          "english": "The Dutch state is democratic."
+        }
+      ]
+    },
+    {
+      "dutch": "staat",
+      "english": "state",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De Nederlandse staat zorgt voor de burgers.",
+          "english": "The Dutch state takes care of the citizens."
+        }
+      ]
+    },
+    {
+      "dutch": "potlood",
+      "english": "pencil",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Ik schrijf met een potlood.",
+          "english": "I write with a pencil."
+        }
+      ]
+    },
+    {
+      "dutch": "water",
+      "english": "water",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Er is veel water in Nederland.",
+          "english": "There is a lot of water in the Netherlands."
+        }
+      ]
+    },
+    {
+      "dutch": "stad",
+      "english": "city",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Welke stad ligt in de Randstad?",
+          "english": "Which city is located in the Randstad?"
+        }
+      ]
+    },
+    {
+      "dutch": "Randstad",
+      "english": "Randstad",
+      "type": "proper noun",
+      "difficulty": "advanced",
+      "examples": [
+        {
+          "dutch": "De Randstad is een stedelijk gebied.",
+          "english": "The Randstad is an urban area."
+        }
+      ]
+    },
+    {
+      "dutch": "Eindhoven",
+      "english": "Eindhoven",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Eindhoven ligt in Noord-Brabant.",
+          "english": "Eindhoven is located in North Brabant."
+        }
+      ]
+    },
+    {
+      "dutch": "Utrecht",
+      "english": "Utrecht",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Utrecht ligt in het midden van Nederland.",
+          "english": "Utrecht is located in the center of the Netherlands."
+        }
+      ]
+    },
+    {
+      "dutch": "wonen",
+      "english": "live",
+      "type": "verb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Waar wonen veel mensen?",
+          "english": "Where do many people live?"
+        }
+      ]
+    },
+    {
+      "dutch": "veel",
+      "english": "many/much",
+      "type": "adverb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Er wonen veel mensen in Amsterdam.",
+          "english": "Many people live in Amsterdam."
+        }
+      ]
+    },
+    {
+      "dutch": "mensen",
+      "english": "people",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Veel mensen wonen in de stad.",
+          "english": "Many people live in the city."
+        }
+      ]
+    },
+    {
+      "dutch": "weinig",
+      "english": "few/little",
+      "type": "adverb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Er zijn weinig mensen op straat.",
+          "english": "There are few people on the street."
+        }
+      ]
+    },
+    {
+      "dutch": "hoofdstad",
+      "english": "capital",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Wat is de hoofdstad van Nederland?",
+          "english": "What is the capital of the Netherlands?"
+        }
+      ]
+    },
+    {
+      "dutch": "Amsterdam",
+      "english": "Amsterdam",
+      "type": "proper noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Amsterdam is de hoofdstad van Nederland.",
+          "english": "Amsterdam is the capital of the Netherlands."
+        }
+      ]
+    },
+    {
+      "dutch": "Haag",
+      "english": "The Hague",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Den Haag is de regeringszetel.",
+          "english": "The Hague is the seat of government."
+        }
+      ]
+    },
+    {
+      "dutch": "regering",
+      "english": "government",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De regering werkt in Den Haag.",
+          "english": "The government works in The Hague."
+        }
+      ]
+    },
+    {
+      "dutch": "Rotterdam",
+      "english": "Rotterdam",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Rotterdam heeft een grote haven.",
+          "english": "Rotterdam has a large harbor."
+        }
+      ]
+    },
+    {
+      "dutch": "woont",
+      "english": "lives",
+      "type": "verb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Waar woont de koning van Nederland?",
+          "english": "Where does the king of the Netherlands live?"
+        }
+      ]
+    },
+    {
+      "dutch": "koning",
+      "english": "king",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De koning woont in het paleis.",
+          "english": "The king lives in the palace."
+        }
+      ]
+    },
+    {
+      "dutch": "Groningen",
+      "english": "Groningen",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Groningen ligt in het noorden.",
+          "english": "Groningen is located in the north."
+        }
+      ]
+    },
+    {
+      "dutch": "Zuid-Holland",
+      "english": "South Holland",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Zuid-Holland is een provincie.",
+          "english": "South Holland is a province."
+        }
+      ]
+    },
+    {
+      "dutch": "grootste",
+      "english": "biggest/largest",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Wat is de grootste provincie?",
+          "english": "What is the largest province?"
+        }
+      ]
+    },
+    {
+      "dutch": "provincie",
+      "english": "province",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Nederland heeft twaalf provincies.",
+          "english": "The Netherlands has twelve provinces."
+        }
+      ]
+    },
+    {
+      "dutch": "heet",
+      "english": "is called",
+      "type": "verb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Hoe heet de nationale luchthaven?",
+          "english": "What is the national airport called?"
+        }
+      ]
+    },
+    {
+      "dutch": "nationale",
+      "english": "national",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Schiphol is de nationale luchthaven.",
+          "english": "Schiphol is the national airport."
+        }
+      ]
+    },
+    {
+      "dutch": "luchthaven",
+      "english": "airport",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De luchthaven is groot.",
+          "english": "The airport is big."
+        }
+      ]
+    },
+    {
+      "dutch": "Europoort",
+      "english": "Europoort",
+      "type": "proper noun",
+      "difficulty": "advanced",
+      "examples": [
+        {
+          "dutch": "Europoort is een grote haven.",
+          "english": "Europoort is a large harbor."
+        }
+      ]
+    },
+    {
+      "dutch": "Schiphol",
+      "english": "Schiphol",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Schiphol is de luchthaven van Amsterdam.",
+          "english": "Schiphol is Amsterdam's airport."
+        }
+      ]
+    },
+    {
+      "dutch": "helpt",
+      "english": "helps",
+      "type": "verb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Wie helpt u als u in Nederland aankomt?",
+          "english": "Who helps you when you arrive in the Netherlands?"
+        }
+      ]
+    },
+    {
+      "dutch": "aankomt",
+      "english": "arrives",
+      "type": "verb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Wanneer komt u aan in Nederland?",
+          "english": "When do you arrive in the Netherlands?"
+        }
+      ]
+    },
+    {
+      "dutch": "gemeente",
+      "english": "municipality",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De gemeente helpt nieuwe inwoners.",
+          "english": "The municipality helps new residents."
+        }
+      ]
+    },
+    {
+      "dutch": "mijn",
+      "english": "my",
+      "type": "pronoun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Dit is mijn huis.",
+          "english": "This is my house."
+        }
+      ]
+    },
+    {
+      "dutch": "buren",
+      "english": "neighbors",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Mijn buren zijn aardig.",
+          "english": "My neighbors are nice."
+        }
+      ]
+    },
+    {
+      "dutch": "droog",
+      "english": "dry",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Is Nederland vaak droog of nat?",
+          "english": "Is the Netherlands often dry or wet?"
+        }
+      ]
+    },
+    {
+      "dutch": "nat",
+      "english": "wet",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Het is nat buiten.",
+          "english": "It's wet outside."
+        }
+      ]
+    },
+    {
+      "dutch": "rustig",
+      "english": "quiet/calm",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Het is rustig in de stad.",
+          "english": "It's quiet in the city."
+        }
+      ]
+    },
+    {
+      "dutch": "wegen",
+      "english": "roads",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "In Nederland zijn de wegen daar druk of rustig?",
+          "english": "In the Netherlands, are the roads busy or quiet?"
+        }
+      ]
+    },
+    {
+      "dutch": "druk",
+      "english": "busy",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De wegen zijn druk.",
+          "english": "The roads are busy."
+        }
+      ]
+    },
+    {
+      "dutch": "fiets",
+      "english": "bicycle",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Ik ga met de fiets naar school.",
+          "english": "I go to school by bicycle."
+        }
+      ]
+    },
+    {
+      "dutch": "fietsen",
+      "english": "cycling/bicycles",
+      "type": "verb/noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Nederlanders fietsen veel.",
+          "english": "Dutch people cycle a lot."
+        }
+      ]
+    },
+    {
+      "dutch": "typisch",
+      "english": "typical",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Wat is typisch Nederlands in het verkeer?",
+          "english": "What is typically Dutch in traffic?"
+        }
+      ]
+    },
+    {
+      "dutch": "verkeer",
+      "english": "traffic",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Het verkeer is druk in de stad.",
+          "english": "Traffic is busy in the city."
+        }
+      ]
+    },
+    {
+      "dutch": "boten",
+      "english": "boats",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Er varen veel boten op het water.",
+          "english": "Many boats sail on the water."
+        }
+      ]
+    },
+    {
+      "dutch": "leven",
+      "english": "live",
+      "type": "verb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Leven Nederlanders veel binnen of buiten?",
+          "english": "Do Dutch people live much indoors or outdoors?"
+        }
+      ]
+    },
+    {
+      "dutch": "Nederlanders",
+      "english": "Dutch people",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Nederlanders spreken Nederlands.",
+          "english": "Dutch people speak Dutch."
+        }
+      ]
+    },
+    {
+      "dutch": "binnen",
+      "english": "inside/indoors",
+      "type": "adverb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "We blijven binnen als het regent.",
+          "english": "We stay inside when it rains."
+        }
+      ]
+    },
+    {
+      "dutch": "buiten",
+      "english": "outside/outdoors",
+      "type": "adverb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Kinderen spelen buiten.",
+          "english": "Children play outside."
+        }
+      ]
+    },
+    {
+      "dutch": "katholiek",
+      "english": "Catholic",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Is de koning katholiek of protestants?",
+          "english": "Is the king Catholic or Protestant?"
+        }
+      ]
+    },
+    {
+      "dutch": "protestants",
+      "english": "Protestant",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Nederland heeft veel protestantse kerken.",
+          "english": "The Netherlands has many Protestant churches."
+        }
+      ]
+    },
+    {
+      "dutch": "Spanje",
+      "english": "Spain",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Spanje ligt ten zuiden van Frankrijk.",
+          "english": "Spain lies south of France."
+        }
+      ]
+    },
+    {
+      "dutch": "lang",
+      "english": "long",
+      "type": "adjective",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Hoe lang duurt de oorlog met Spanje?",
+          "english": "How long does the war with Spain last?"
+        }
+      ]
+    },
+    {
+      "dutch": "duurt",
+      "english": "lasts/takes",
+      "type": "verb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De reis duurt drie uur.",
+          "english": "The journey takes three hours."
+        }
+      ]
+    },
+    {
+      "dutch": "oorlog",
+      "english": "war",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De oorlog duurde lang.",
+          "english": "The war lasted long."
+        }
+      ]
+    },
+    {
+      "dutch": "jaar",
+      "english": "year",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "De oorlog duurde tachtig jaar.",
+          "english": "The war lasted eighty years."
+        }
+      ]
+    },
+    {
+      "dutch": "tachtig",
+      "english": "eighty",
+      "type": "number",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Tachtig jaar is een lange tijd.",
+          "english": "Eighty years is a long time."
+        }
+      ]
+    },
+    {
+      "dutch": "vijftig",
+      "english": "fifty",
+      "type": "number",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Hij is vijftig jaar oud.",
+          "english": "He is fifty years old."
+        }
+      ]
+    },
+    {
+      "dutch": "handel",
+      "english": "trade",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Nederland deed veel handel.",
+          "english": "The Netherlands did a lot of trade."
+        }
+      ]
+    },
+    {
+      "dutch": "vierhonderd",
+      "english": "four hundred",
+      "type": "number",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Vierhonderd jaar geleden was Nederland rijk.",
+          "english": "Four hundred years ago the Netherlands was rich."
+        }
+      ]
+    },
+    {
+      "dutch": "VOC",
+      "english": "VOC (Dutch East India Company)",
+      "type": "proper noun",
+      "difficulty": "advanced",
+      "examples": [
+        {
+          "dutch": "De VOC was een handelsmaatschappij.",
+          "english": "The VOC was a trading company."
+        }
+      ]
+    },
+    {
+      "dutch": "scheepvaart",
+      "english": "shipping/navigation",
+      "type": "noun",
+      "difficulty": "advanced",
+      "examples": [
+        {
+          "dutch": "Nederland was sterk in de scheepvaart.",
+          "english": "The Netherlands was strong in shipping."
+        }
+      ]
+    },
+    {
+      "dutch": "vangst",
+      "english": "catch",
+      "type": "noun",
+      "difficulty": "advanced",
+      "examples": [
+        {
+          "dutch": "De vangst was groot.",
+          "english": "The catch was large."
+        }
+      ]
+    },
+    {
+      "dutch": "scheidden",
+      "english": "separated/divorced",
+      "type": "verb",
+      "difficulty": "advanced",
+      "examples": [
+        {
+          "dutch": "Wie scheidden de schilderij?",
+          "english": "Who separated the painting?"
+        }
+      ]
+    },
+    {
+      "dutch": "schilderij",
+      "english": "painting",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Het schilderij hangt aan de muur.",
+          "english": "The painting hangs on the wall."
+        }
+      ]
+    },
+    {
+      "dutch": "Rembrandt",
+      "english": "Rembrandt",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Rembrandt was een beroemde schilder.",
+          "english": "Rembrandt was a famous painter."
+        }
+      ]
+    },
+    {
+      "dutch": "Rijn",
+      "english": "Rhine",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De Rijn stroomt door Nederland.",
+          "english": "The Rhine flows through the Netherlands."
+        }
+      ]
+    },
+    {
+      "dutch": "Willem",
+      "english": "Willem",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Willem van Oranje was een prins.",
+          "english": "Willem van Oranje was a prince."
+        }
+      ]
+    },
+    {
+      "dutch": "Alexander",
+      "english": "Alexander",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Koning Willem-Alexander regeert Nederland.",
+          "english": "King Willem-Alexander rules the Netherlands."
+        }
+      ]
+    },
+    {
+      "dutch": "prins",
+      "english": "prince",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De prins woont in het paleis.",
+          "english": "The prince lives in the palace."
+        }
+      ]
+    },
+    {
+      "dutch": "prinses",
+      "english": "princess",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De prinses is mooi.",
+          "english": "The princess is beautiful."
+        }
+      ]
+    },
+    {
+      "dutch": "Beatrix",
+      "english": "Beatrix",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Koningin Beatrix regeerde lang.",
+          "english": "Queen Beatrix ruled for a long time."
+        }
+      ]
+    },
+    {
+      "dutch": "Claus",
+      "english": "Claus",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Prins Claus was de man van Beatrix.",
+          "english": "Prince Claus was Beatrix's husband."
+        }
+      ]
+    },
+    {
+      "dutch": "komt",
+      "english": "comes",
+      "type": "verb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Uit welk land komt koningin Maxima?",
+          "english": "From which country does Queen Maxima come?"
+        }
+      ]
+    },
+    {
+      "dutch": "Argentinië",
+      "english": "Argentina",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Argentinië ligt in Zuid-Amerika.",
+          "english": "Argentina is located in South America."
+        }
+      ]
+    },
+    {
+      "dutch": "Amalia",
+      "english": "Amalia",
+      "type": "proper noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Prinses Amalia is de dochter van de koning.",
+          "english": "Princess Amalia is the king's daughter."
+        }
+      ]
+    },
+    {
+      "dutch": "kroonprinses",
+      "english": "crown princess",
+      "type": "noun",
+      "difficulty": "advanced",
+      "examples": [
+        {
+          "dutch": "Amalia is de kroonprinses.",
+          "english": "Amalia is the crown princess."
+        }
+      ]
+    },
+    {
+      "dutch": "democratie",
+      "english": "democracy",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Is Nederland een democratie?",
+          "english": "Is the Netherlands a democracy?"
+        }
+      ]
+    },
+    {
+      "dutch": "ja",
+      "english": "yes",
+      "type": "adverb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Ja, Nederland is een democratie.",
+          "english": "Yes, the Netherlands is a democracy."
+        }
+      ]
+    },
+    {
+      "dutch": "nee",
+      "english": "no",
+      "type": "adverb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Nee, dat is niet waar.",
+          "english": "No, that is not true."
+        }
+      ]
+    },
+    {
+      "dutch": "parlement",
+      "english": "parliament",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Het parlement vergadert in Den Haag.",
+          "english": "Parliament meets in The Hague."
+        }
+      ]
+    },
+    {
+      "dutch": "zit",
+      "english": "sits/is located",
+      "type": "verb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "In welke stad zit het parlement?",
+          "english": "In which city is parliament located?"
+        }
+      ]
+    },
+    {
+      "dutch": "belangrijk",
+      "english": "important",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Het parlement is belangrijk.",
+          "english": "Parliament is important."
+        }
+      ]
+    },
+    {
+      "dutch": "voorzitter",
+      "english": "chairman/president",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Wie is de voorzitter van de raad?",
+          "english": "Who is the chairman of the council?"
+        }
+      ]
+    },
+    {
+      "dutch": "raad",
+      "english": "council",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De raad van ministers vergadert.",
+          "english": "The council of ministers meets."
+        }
+      ]
+    },
+    {
+      "dutch": "ministers",
+      "english": "ministers",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De ministers werken voor de regering.",
+          "english": "The ministers work for the government."
+        }
+      ]
+    },
+    {
+      "dutch": "minister-president",
+      "english": "prime minister",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De minister-president leidt het land.",
+          "english": "The prime minister leads the country."
+        }
+      ]
+    },
+    {
+      "dutch": "vergaderen",
+      "english": "meet/have a meeting",
+      "type": "verb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Wie vergaderen in deze zaal?",
+          "english": "Who meets in this hall?"
+        }
+      ]
+    },
+    {
+      "dutch": "zaal",
+      "english": "hall/room",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De vergadering is in de grote zaal.",
+          "english": "The meeting is in the large hall."
+        }
+      ]
+    },
+    {
+      "dutch": "Eerste",
+      "english": "First",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De Eerste Kamer vergadert hier.",
+          "english": "The First Chamber meets here."
+        }
+      ]
+    },
+    {
+      "dutch": "Kamer",
+      "english": "Chamber",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Nederland heeft twee Kamers.",
+          "english": "The Netherlands has two Chambers."
+        }
+      ]
+    },
+    {
+      "dutch": "Tweede",
+      "english": "Second",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De Tweede Kamer is belangrijk.",
+          "english": "The Second Chamber is important."
+        }
+      ]
+    },
+    {
+      "dutch": "vaak",
+      "english": "often",
+      "type": "adverb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Hoe vaak zijn er verkiezingen?",
+          "english": "How often are there elections?"
+        }
+      ]
+    },
+    {
+      "dutch": "verkiezingen",
+      "english": "elections",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De verkiezingen zijn elke vier jaar.",
+          "english": "Elections are every four years."
+        }
+      ]
+    },
+    {
+      "dutch": "elke",
+      "english": "every",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Elke vier jaar zijn er verkiezingen.",
+          "english": "Every four years there are elections."
+        }
+      ]
+    },
+    {
+      "dutch": "vier",
+      "english": "four",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Er zijn vier seizoenen.",
+          "english": "There are four seasons."
+        }
+      ]
+    },
+    {
+      "dutch": "zes",
+      "english": "six",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Zes jaar is een lange tijd.",
+          "english": "Six years is a long time."
+        }
+      ]
+    },
+    {
+      "dutch": "functie",
+      "english": "function/position",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Wat is de functie van deze man?",
+          "english": "What is this man's function?"
+        }
+      ]
+    },
+    {
+      "dutch": "man",
+      "english": "man",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "De man werkt hard.",
+          "english": "The man works hard."
+        }
+      ]
+    },
+    {
+      "dutch": "burgemeester",
+      "english": "mayor",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De burgemeester leidt de stad.",
+          "english": "The mayor leads the city."
+        }
+      ]
+    },
+    {
+      "dutch": "discriminatie",
+      "english": "discrimination",
+      "type": "noun",
+      "difficulty": "advanced",
+      "examples": [
+        {
+          "dutch": "Is discriminatie toegestaan in Nederland?",
+          "english": "Is discrimination allowed in the Netherlands?"
+        }
+      ]
+    },
+    {
+      "dutch": "toegestaan",
+      "english": "allowed/permitted",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Roken is hier niet toegestaan.",
+          "english": "Smoking is not allowed here."
+        }
+      ]
+    },
+    {
+      "dutch": "hebben",
+      "english": "have",
+      "type": "verb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Hebben vrouwen in Nederland meer rechten?",
+          "english": "Do women in the Netherlands have more rights?"
+        }
+      ]
+    },
+    {
+      "dutch": "vrouwen",
+      "english": "women",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Vrouwen werken ook buitenshuis.",
+          "english": "Women also work outside the home."
+        }
+      ]
+    },
+    {
+      "dutch": "rechten",
+      "english": "rights",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Alle mensen hebben gelijke rechten.",
+          "english": "All people have equal rights."
+        }
+      ]
+    },
+    {
+      "dutch": "mannen",
+      "english": "men",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Mannen en vrouwen zijn gelijk.",
+          "english": "Men and women are equal."
+        }
+      ]
+    },
+    {
+      "dutch": "dezelfde",
+      "english": "the same",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Mannen en vrouwen hebben dezelfde rechten.",
+          "english": "Men and women have the same rights."
+        }
+      ]
+    },
+    {
+      "dutch": "mogen",
+      "english": "may/are allowed to",
+      "type": "verb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Mogen vrouwen in Nederland zelf kiezen?",
+          "english": "Are women in the Netherlands allowed to choose for themselves?"
+        }
+      ]
+    },
+    {
+      "dutch": "zelf",
+      "english": "themselves/self",
+      "type": "pronoun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Vrouwen mogen zelf beslissen.",
+          "english": "Women may decide for themselves."
+        }
+      ]
+    },
+    {
+      "dutch": "kiezen",
+      "english": "choose",
+      "type": "verb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Je mag zelf kiezen wat je wilt.",
+          "english": "You may choose what you want yourself."
+        }
+      ]
+    },
+    {
+      "dutch": "maken",
+      "english": "make",
+      "type": "verb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Vrouwen mogen zelf hun keuzes maken.",
+          "english": "Women may make their own choices."
+        }
+      ]
+    },
+    {
+      "dutch": "strafhaar",
+      "english": "punishable",
+      "type": "adjective",
+      "difficulty": "advanced",
+      "examples": [
+        {
+          "dutch": "Is het discrimineren van homoseksuelen strafbaar?",
+          "english": "Is discriminating against homosexuals punishable?"
+        }
+      ]
+    },
+    {
+      "dutch": "homoseksualiteit",
+      "english": "homosexuality",
+      "type": "noun",
+      "difficulty": "advanced",
+      "examples": [
+        {
+          "dutch": "Homoseksualiteit is toegestaan in Nederland.",
+          "english": "Homosexuality is allowed in the Netherlands."
+        }
+      ]
+    },
+    {
+      "dutch": "staatsgodsdienst",
+      "english": "state religion",
+      "type": "noun",
+      "difficulty": "advanced",
+      "examples": [
+        {
+          "dutch": "Heeft Nederland een staatsgodsdienst?",
+          "english": "Does the Netherlands have a state religion?"
+        }
+      ]
+    },
+    {
+      "dutch": "één",
+      "english": "one",
+      "type": "number",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Er is één staatsgodsdienst.",
+          "english": "There is one state religion."
+        }
+      ]
+    },
+    {
+      "dutch": "godsdienst",
+      "english": "religion",
+      type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Iedereen mag zijn eigen godsdienst hebben.",
+          "english": "Everyone may have their own religion."
+        }
+      ]
+    },
+    {
+      "dutch": "zijn",
+      "english": "are/his",
+      "type": "verb/pronoun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Er zijn veel godsdiensten.",
+          "english": "There are many religions."
+        }
+      ]
+    },
+    {
+      "dutch": "wel",
+      "english": "indeed/well",
+      "type": "adverb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Er zijn wel veel godsdiensten.",
+          "english": "There are indeed many religions."
+        }
+      ]
+    },
+    {
+      "dutch": "godsdiensten",
+      "english": "religions",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Nederland heeft veel verschillende godsdiensten.",
+          "english": "The Netherlands has many different religions."
+        }
+      ]
+    },
+    {
+      "dutch": "radio",
+      "english": "radio",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Zijn de Nederlandse radio en televisie vrij?",
+          "english": "Are Dutch radio and television free?"
+        }
+      ]
+    },
+    {
+      "dutch": "televisie",
+      "english": "television",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Ik kijk naar de televisie.",
+          "english": "I watch television."
+        }
+      ]
+    },
+    {
+      "dutch": "vrij",
+      "english": "free",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De pers is vrij in Nederland.",
+          "english": "The press is free in the Netherlands."
+        }
+      ]
+    },
+    {
+      "dutch": "hun",
+      "english": "their",
+      "type": "pronoun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Mensen mogen hun mening zeggen.",
+          "english": "People may express their opinion."
+        }
+      ]
+    },
+    {
+      "dutch": "mening",
+      "english": "opinion",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Iedereen heeft een mening.",
+          "english": "Everyone has an opinion."
+        }
+      ]
+    },
+    {
+      "dutch": "televisiekanalen",
+      "english": "television channels",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Er zijn veel televisiekanalen.",
+          "english": "There are many television channels."
+        }
+      ]
+    },
+    {
+      "dutch": "staatstelevisie",
+      "english": "state television",
+      "type": "noun",
+      "difficulty": "advanced",
+      "examples": [
+        {
+          "dutch": "Is er staatstelevisie in Nederland?",
+          "english": "Is there state television in the Netherlands?"
+        }
+      ]
+    },
+    {
+      "dutch": "wapenbeziit",
+      "english": "weapon possession",
+      "type": "noun",
+      "difficulty": "advanced",
+      "examples": [
+        {
+          "dutch": "Is wapenbezit zonder vergunning toegestaan?",
+          "english": "Is weapon possession without a permit allowed?"
+        }
+      ]
+    },
+    {
+      "dutch": "zonder",
+      "english": "without",
+      "type": "preposition",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Je mag niet zonder vergunning wapens hebben.",
+          "english": "You may not have weapons without a permit."
+        }
+      ]
+    },
+    {
+      "dutch": "vergunning",
+      "english": "permit/license",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Je hebt een vergunning nodig.",
+          "english": "You need a permit."
+        }
+      ]
+    },
+    {
+      "dutch": "vrouwenbeweging",
+      "english": "women's movement",
+      "type": "noun",
+      "difficulty": "advanced",
+      "examples": [
+        {
+          "dutch": "Is vrouwenbeweging toegestaan of strafbaar?",
+          "english": "Is the women's movement allowed or punishable?"
+        }
+      ]
+    },
+    {
+      "dutch": "slaan",
+      "english": "hit/beat",
+      "type": "verb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Is het slaan van vrouwen toegestaan?",
+          "english": "Is hitting women allowed?"
+        }
+      ]
+    },
+    {
+      "dutch": "geloof",
+      "english": "faith/belief",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Hebben alle mensen in Nederland hetzelfde geloof?",
+          "english": "Do all people in the Netherlands have the same faith?"
+        }
+      ]
+    },
+    {
+      "dutch": "hetzelfde",
+      "english": "the same",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Niet iedereen heeft hetzelfde geloof.",
+          "english": "Not everyone has the same faith."
+        }
+      ]
+    },
+    {
+      "dutch": "taal",
+      "english": "language",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Welke taal spreken de meeste Nederlanders?",
+          "english": "Which language do most Dutch people speak?"
+        }
+      ]
+    },
+    {
+      "dutch": "spreken",
+      "english": "speak",
+      "type": "verb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Ik spreek Nederlands.",
+          "english": "I speak Dutch."
+        }
+      ]
+    },
+    {
+      "dutch": "meeste",
+      "english": "most",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De meeste mensen spreken Nederlands.",
+          "english": "Most people speak Dutch."
+        }
+      ]
+    },
+    {
+      "dutch": "Duits",
+      "english": "German",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Duits wordt in Duitsland gesproken.",
+          "english": "German is spoken in Germany."
+        }
+      ]
+    },
+    {
+      "dutch": "Europese",
+      "english": "European",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Nederlands behoort tot de Europese talen.",
+          "english": "Dutch belongs to the European languages."
+        }
+      ]
+    },
+    {
+      "dutch": "talen",
+      "english": "languages",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Er zijn veel verschillende talen.",
+          "english": "There are many different languages."
+        }
+      ]
+    },
+    {
+      "dutch": "leert",
+      "english": "learns",
+      "type": "verb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Wat leert u in de Nederlandse taalles?",
+          "english": "What do you learn in Dutch language class?"
+        }
+      ]
+    },
+    {
+      "dutch": "taalles",
+      "english": "language lesson",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Ik ga naar de Nederlandse taalles.",
+          "english": "I go to Dutch language class."
+        }
+      ]
+    },
+    {
+      "dutch": "alle",
+      "english": "all",
+      "type": "adjective",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Alle kinderen gaan naar school.",
+          "english": "All children go to school."
+        }
+      ]
+    },
+    {
+      "dutch": "betalen",
+      "english": "pay",
+      "type": "verb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Moet u voor een taalcursus betalen?",
+          "english": "Do you have to pay for a language course?"
+        }
+      ]
+    },
+    {
+      "dutch": "taalcursus",
+      "english": "language course",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De taalcursus duurt een jaar.",
+          "english": "The language course lasts one year."
+        }
+      ]
+    },
+    {
+      "dutch": "school",
+      "english": "school",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Wie betaalt de school?",
+          "english": "Who pays for school?"
+        }
+      ]
+    },
+    {
+      "dutch": "betaalt",
+      "english": "pays",
+      "type": "verb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "De regering betaalt de scholen.",
+          "english": "The government pays for the schools."
+        }
+      ]
+    },
+    {
+      "dutch": "jezelf",
+      "english": "yourself",
+      "type": "pronoun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Je moet het jezelf betalen.",
+          "english": "You have to pay for it yourself."
+        }
+      ]
+    },
+    {
+      "dutch": "gaan",
+      "english": "go",
+      "type": "verb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Gaan in Nederland alleen kinderen naar school?",
+          "english": "In the Netherlands, do only children go to school?"
+        }
+      ]
+    },
+    {
+      "dutch": "alleen",
+      "english": "only/alone",
+      "type": "adverb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Niet alleen kinderen gaan naar school.",
+          "english": "Not only children go to school."
+        }
+      ]
+    },
+    {
+      "dutch": "kinderen",
+      "english": "children",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Kinderen spelen graag.",
+          "english": "Children like to play."
+        }
+      ]
+    },
+    {
+      "dutch": "volwassenen",
+      "english": "adults",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Ook volwassenen kunnen naar school.",
+          "english": "Adults can also go to school."
+        }
+      ]
+    },
+    {
+      "dutch": "verplicht",
+      "english": "mandatory/compulsory",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Tot welke leeftijd is onderwijs verplicht?",
+          "english": "Until what age is education compulsory?"
+        }
+      ]
+    },
+    {
+      "dutch": "leeftijd",
+      "english": "age",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Op welke leeftijd ga je naar school?",
+          "english": "At what age do you go to school?"
+        }
+      ]
+    },
+    {
+      "dutch": "onderwijs",
+      "english": "education",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Onderwijs is belangrijk.",
+          "english": "Education is important."
+        }
+      ]
+    },
+    {
+      "dutch": "zestien",
+      "english": "sixteen",
+      "type": "number",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Tot zestien jaar is school verplicht.",
+          "english": "School is compulsory until sixteen years."
+        }
+      ]
+    },
+    {
+      "dutch": "achttien",
+      "english": "eighteen",
+      "type": "number",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Op achttien jaar ben je volwassen.",
+          "english": "At eighteen years you are an adult."
+        }
+      ]
+    },
+    {
+      "dutch": "leren",
+      "english": "learn",
+      "type": "verb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Tot welke leeftijd moeten kinderen leren?",
+          "english": "Until what age must children learn?"
+        }
+      ]
+    },
+    {
+      "dutch": "spelen",
+      "english": "play",
+      "type": "verb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Leren kinderen als ze spelen?",
+          "english": "Do children learn when they play?"
+        }
+      ]
+    },
+    {
+      "dutch": "kiest",
+      "english": "chooses/select",
+      "type": "verb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Wie kiest in Nederland de school voor het kind?",
+          "english": "Who chooses the school for the child in the Netherlands?"
+        }
+      ]
+    },
+    {
+      "dutch": "kind",
+      "english": "child",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Het kind gaat naar school.",
+          "english": "The child goes to school."
+        }
+      ]
+    },
+    {
+      "dutch": "ouders",
+      "english": "parents",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "De ouders zorgen voor het kind.",
+          "english": "The parents take care of the child."
+        }
+      ]
+    },
+    {
+      "dutch": "apart",
+      "english": "separate",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Zijn er in Nederland op school aparte klassen?",
+          "english": "Are there separate classes at school in the Netherlands?"
+        }
+      ]
+    },
+    {
+      "dutch": "klassen",
+      "english": "classes",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Er zijn verschillende klassen op school.",
+          "english": "There are different classes at school."
+        }
+      ]
+    },
+    {
+      "dutch": "jongens",
+      "english": "boys",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Jongens en meisjes zitten samen in de klas.",
+          "english": "Boys and girls sit together in class."
+        }
+      ]
+    },
+    {
+      "dutch": "voor",
+      "english": "for",
+      "type": "preposition",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Dit is voor jou.",
+          "english": "This is for you."
+        }
+      ]
+    },
+    {
+      "dutch": "meisjes",
+      "english": "girls",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Meisjes en jongens spelen samen.",
+          "english": "Girls and boys play together."
+        }
+      ]
+    },
+    {
+      "dutch": "dragen",
+      "english": "wear/carry",
+      "type": "verb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Dragen kinderen in Nederland op school een uniform?",
+          "english": "Do children in the Netherlands wear a uniform at school?"
+        }
+      ]
+    },
+    {
+      "dutch": "uniform",
+      "english": "uniform",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Soldaten dragen een uniform.",
+          "english": "Soldiers wear a uniform."
+        }
+      ]
+    },
+    {
+      "dutch": "kan",
+      "english": "can",
+      "type": "verb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Wat kan deze jongen doen met een computer?",
+          "english": "What can this boy do with a computer?"
+        }
+      ]
+    },
+    {
+      "dutch": "jongen",
+      "english": "boy",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "De jongen speelt voetbal.",
+          "english": "The boy plays football."
+        }
+      ]
+    },
+    {
+      "dutch": "doen",
+      "english": "do",
+      "type": "verb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Wat ga je doen?",
+          "english": "What are you going to do?"
+        }
+      ]
+    },
+    {
+      "dutch": "computer",
+      "english": "computer",
+      "type": "noun",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Ik werk met een computer.",
+          "english": "I work with a computer."
+        }
+      ]
+    },
+    {
+      "dutch": "alleen",
+      "english": "only",
+      "type": "adverb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Hij kan alleen spelen.",
+          "english": "He can only play."
+        }
+      ]
+    },
+    {
+      "dutch": "leren",
+      "english": "learn",
+      "type": "verb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Kinderen kunnen spelen en leren.",
+          "english": "Children can play and learn."
+        }
+      ]
+    },
+    {
+      "dutch": "voortgezet",
+      "english": "secondary",
+      "type": "adjective",
+      "difficulty": "advanced",
+      "examples": [
+        {
+          "dutch": "Voortgezet onderwijs is voor oudere kinderen.",
+          "english": "Secondary education is for older children."
+        }
+      ]
+    },
+    {
+      "dutch": "vanaf",
+      "english": "from",
+      "type": "preposition",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Vanaf vier jaar gaan kinderen naar school.",
+          "english": "From four years old children go to school."
+        }
+      ]
+    },
+    {
+      "dutch": "twaalf",
+      "english": "twelve",
+      "type": "number",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Twaalf jaar is een mooie leeftijd.",
+          "english": "Twelve years is a nice age."
+        }
+      ]
+    },
+    {
+      "dutch": "krijg",
+      "english": "get",
+      "type": "verb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Krijg je in Nederland een uitkering?",
+          "english": "Do you get benefits in the Netherlands?"
+        }
+      ]
+    },
+    {
+      "dutch": "uitkering",
+      "english": "benefit/allowance",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Ik krijg een uitkering van de gemeente.",
+          "english": "I get a benefit from the municipality."
+        }
+      ]
+    },
+    {
+      "dutch": "moet",
+      "english": "must/have to",
+      "type": "verb",
+      "difficulty": "beginner",
+      "examples": [
+        {
+          "dutch": "Moet uw partner voor u zorgen?",
+          "english": "Must your partner take care of you?"
+        }
+      ]
+    },
+    {
+      "dutch": "partner",
+      "english": "partner",
+      "type": "noun",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Mijn partner helpt mij.",
+          "english": "My partner helps me."
+        }
+      ]
+    },
+    {
+      "dutch": "zorgen",
+      "english": "take care",
+      "type": "verb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Ouders zorgen voor hun kinderen.",
+          "english": "Parents take care of their children."
+        }
+      ]
+    },
+    {
+      "dutch": "leven",
+      "english": "life/live",
+      "type": "noun/verb",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Is het leven in Nederland duur of goedkoop?",
+          "english": "Is life in the Netherlands expensive or cheap?"
+        }
+      ]
+    },
+    {
+      "dutch": "duur",
+      "english": "expensive",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Het huis is duur.",
+          "english": "The house is expensive."
+        }
+      ]
+    },
+    {
+      "dutch": "goedkoop",
+      "english": "cheap",
+      "type": "adjective",
+      "difficulty": "intermediate",
+      "examples": [
+        {
+          "dutch": "Deze fiets is goedkoop.",
+          "english": "This bicycle is cheap."
+        }
+      ]
+    }
   ]
 }
